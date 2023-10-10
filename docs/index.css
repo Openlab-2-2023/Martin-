@@ -12,3 +12,10 @@ body h3 {
     font-weight: bold;
   
 }
+
+button {
+    background-color:rgb(195, 234, 255) ;
+    border-radius: 5px;
+    
+
+}
