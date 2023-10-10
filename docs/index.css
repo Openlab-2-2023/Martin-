@@ -24,3 +24,21 @@ a {
     color: inherit;
     text-decoration: inherit;
     }
+
+hr {
+    height: 5px;
+    width: 50%;
+}
+
+#Obrazok {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#Portret {
+    max-width: 450px;
+    display: block;
+    margin-left: auto;
+
+}
