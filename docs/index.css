@@ -43,3 +43,10 @@ hr {
     margin-left: auto;
 
 }
+
+footer {
+    background-color: rgb(110, 138, 150);
+    width: 100%;
+    display: block;
+    margin-left: auto;
+}
