@@ -1,52 +1,43 @@
-body h2 {
+.background {   /**Pozadie**/
+    background-color: rgb(195, 234, 255);
+}
+.obr {           /**Nadpis**/
+    position: fixed;
+    top: 10px;
+    left: 30%;
+}
+.portret {       /**Malba**/
+    max-width: 35%;
+    display: block;
+    margin-left: auto;
+}
+h2 {             /**Nadpisy**/
     color:#4093dcaa;
     text-align:left;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size:60px;
     font-weight:bold; 
 }
-
-body h3 {
+h3 {             /**Pismo-1**/
     font-family: Verdana, Helvetica, sans-serif;
     font-size: 20px;
     font-weight: bold;
-  
 }
-
-button {
+.button {        /**Tlacidla**/
     background-color:rgb(195, 234, 255) ;
     border-radius: 5px;
     font-family:Arial, Helvetica, sans-serif ;
-    
-}
-
-a {
+}  
+a {              /**Linky**/
     color: inherit;
     text-decoration: inherit;
     }
-
-hr {
-    height: 5px;
-    width: 50%;
-}
-
-#Obr {
-    position: fixed;
-    top: 10px;
-    left: 30%;
-
-}
-
-#Portret {
-    max-width: 35%;
-    display: block;
-    margin-left: auto;
-
-}
-
-footer {
+footer {         /**Riť stránky**/
     background-color: rgb(110, 138, 150);
     width: 100%;
     display: block;
     margin-left: auto;
+}
+.center {        /**Zarovnanie**/
+    text-align: center;
 }
