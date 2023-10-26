@@ -51,6 +51,7 @@ table, th, td {
     border: 1px solid black;
     border-radius: 2px;
     min-width: 50%;
+    text-align: center;
 
   }
 
@@ -78,3 +79,4 @@ table, th, td {
 #Zelena {
     background-color: #27AE60;
 }
+
